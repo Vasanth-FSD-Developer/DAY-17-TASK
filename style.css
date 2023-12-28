@@ -1,0 +1,50 @@
+.container .card{
+    display: inline-block;
+
+  }
+  .card-header{
+    background-color: rgb(251, 53, 53);
+    color: white;
+    
+  }
+  body{
+    background-image: url('https://t3.ftcdn.net/jpg/05/51/95/26/360_F_551952602_vp8d4v2nDYo8UExEpxFOtMMv8uOzPaq9.jpg');
+    background-position: center;
+  }
+  h1{
+    color: white;
+  }
+  img{
+    display: flex;
+    height: 150px;
+    width: 250px;
+    margin: 10px;
+    padding: 10px;
+    justify-content: center;
+    gap: 10px;
+  }
+  .card{
+    display: flex;
+    text-align: center;
+    background-image: linear-gradient(to left,rgb(241, 241, 140),rgb(192, 191, 141));
+    color: white;
+    font-size: 15px;
+    font-family:'Times New Roman', Times, serif;
+    margin: 10px;
+    padding: 10px;
+
+    
+  }
+  .card-text{
+    background-image: linear-gradient(to left,rgb(208, 208, 96),rgb(192, 191, 141));
+  }
+  .list-group{
+    color: rgb(15, 13, 13);
+    background-image: linear-gradient(to left,rgb(91, 91, 74),rgb(192, 191, 141));
+  }
+  .btn{
+    margin-top: 10px;
+    background-image: linear-gradient(to left,rgb(27, 27, 26),rgb(192, 191, 141));
+    border: 2px solid white;
+    font-size: 20px;
+  }

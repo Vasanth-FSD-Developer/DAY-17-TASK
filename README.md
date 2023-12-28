@@ -1,4 +1,4 @@
 # Rest countries Weather API
 
-<img src="" alt="">
+<img src="weather api.png" alt="API">
 By using this website, you can able to know weather of the countries!!. 
